@@ -1,2 +1,1 @@
-# Arpit Khandelwal
-### DevOps Engineer at Rakuten Inc.
+# DevOps Engineer at Rakuten Inc.
